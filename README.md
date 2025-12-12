@@ -3,6 +3,13 @@
 
 This project is a fully responsive Spotify-inspired user interface built using only HTML and CSS. It recreates the modern Spotify layout with high attention to detail, including dynamic scrolling sections, hidden scrollbars, custom scrollbar styling, interactive hover effects, and a clean structure that adapts seamlessly across devices.
 
+
+
+https://github.com/user-attachments/assets/c3ab03f0-222a-4d88-abdd-6088c145b837
+
+
+
+
 ✨ Features
 🎨 Pixel-perfect layout using pure HTML & CSS
 
